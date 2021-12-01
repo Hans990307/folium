@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bafe946e-e3dd-4eec-b9fb-8cd80730f0dd": {
+      "ProjectGuid": "bafe946e-e3dd-4eec-b9fb-8cd80730f0dd",
+      "DisplayName": "folium",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
